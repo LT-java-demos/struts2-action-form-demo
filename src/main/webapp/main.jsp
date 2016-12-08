@@ -5,5 +5,6 @@
 </head>
 <body>
 <h2>login success</h2>
+Welcome : ${username}
 </body>
 </html>
